@@ -30,4 +30,4 @@
 	url = https://github.com/customink-webops/hostsfile.git
 [submodule "cookbooks/hostname"]
 	path = cookbooks/hostname
-	url = https://github.com/franco/chef-hostname.git
+	url = https://github.com/nickola/chef-hostname.git
